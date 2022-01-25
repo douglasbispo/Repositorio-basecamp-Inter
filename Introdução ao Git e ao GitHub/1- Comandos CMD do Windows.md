@@ -2,23 +2,61 @@
 
  
 
-1. “dir” lista os diretórios na pasta que está situado.
+Listar os diretórios na pasta que está situado
 
-2. “cd nome_diretorio” abre os respectivos diretórios.
+```
+	dir
+```
 
-3.   “cd /” volta para a base do diretório.
+Abre os respectivos diretórios
 
-4. “cd ..” volta para o diretório anterior. 
+```
+	cd meu_diretorio
+```
 
-5. “cls” limpa o terminal. 
+Volta para o diretório base 
 
-6. “mkdir nome_pasta” comando para criar um novo diretório. 
+```
+	cd /
+```
 
-7. “echo hello > hello.txt” esse comado vai pegar o que está escrito no echo e jogar no arquivo hello.txt
+Volta para o diretório anterior
 
-8. “del nomeArquivo.txt” comando para deletar apenas arquivos.
+```
+	cd ..
+```
 
-9.  "rmdir nomePasta /S /Q” comando para deletar um repositório. 
+Limpa o terminal
+
+```
+	cls
+```
+
+Criar um novo diretório
+
+```
+	mkdir meu_diretorio
+```
+
+Criar arquivo hello.txt com o que está escrito no echo
+
+```
+	echo hello > hello.txt
+```
+
+Deletar arquivos
+
+```
+	del meu_arquivo.txt
+```
+
+Deletar um diretório
+
+```
+	rmdir meu_diretorio /S /Q
+```
+
+
 
 
 

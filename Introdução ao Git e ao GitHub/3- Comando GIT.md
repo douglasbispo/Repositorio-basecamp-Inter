@@ -2,78 +2,151 @@
 
  
 
-**1) Comados CMD:**
+#### Outros Comados
 
-1.  “ls” lista os diretórios na pasta que está situado.
-2.  “ls -a” lista os diretórios ocultos.
-3.  “clear ou CTRL + L” limpa o terminal. 
-4.  “mv nome_pasta + caminho_diretório” comando para mover arquivos ou pastas.
+###### listar os diretórios na pasta que está situado
+
+```
+	ls
+```
+
+###### listar os diretórios ocultos
+
+```
+	ls -a
+```
+
+###### limpar o terminal ou CTRL + L 
+
+```
+	clear
+```
+
+###### Mover arquivos ou pastas
+
+```
+	mv meu_projeto/meu_arquivo.txt caminho_diretório	
+```
 
  
 
-**2) Comados do GIT:**
+## Principais Comados do GIT:
 
-1. “git init” comando para inicializar um repositório local no GIT dentro da pasta direcionada.
+As configurações do GIT são armazenadas no arquivo .git localizado dentro do diretório selecionado pelo usuário
 
-   
+#### Criar um novo repositório local no GIT
 
-2. “git config --global user.email "seu_email" " comando para adicionar um e-mail de forma global ao GIT.
+		git init
 
-   
 
-3. “git config --global user.name "username" " comando para adicionar um nome de forma global ao GIT.
 
-   
+#### Setar seu usuário e e-mail
 
-4. “git add *, git add -a ou git add . ” comandos para adicionar tudo ao repositório.
+		git config --global user.email "douglas@hotmail.com"
+		git config --global user.name "douglas"
 
-   
 
-5. “git add nome_especifico ” comando para adicionar alguma coisa especifica ao repositório.
 
-   
+#### Adicionar todos os arquivos/diretórios
 
-6.   “git commit -m “mensagem” ” comando para comitar.
+		git add *
+		git add -a
+		git add . 
 
-   
 
-7.  “git status” monitora os status dos arquivos.  
 
-   
+#### Adicionar um repositório ou arquivo específico
 
-8.  “git config --list” comando para mostrar todas as configurações que estão no seu GIT.
+```
+	git add meu_projeto_Git
+	git add meu_arquivo.txt
+```
 
-   
 
-9.  “git config --global --unset user.email” e “git config --global --unset user.email” são comando para remover o e-mail e nome que estão adicionados ao GIT.
 
-   
+#### Comitar arquivos/diretórios
 
-10.  “git remote add origin https://github.com/douglasbispo/...” associar repositório local ao repositório remoto.
+```
+	git commit -m “mensagem”
+```
 
-    
 
-11.  “git remote -v” lista os repositórios que estão cadastrados.  
 
-    
+#### Monitorar status dos arquivos/diretórios
 
-12.  “git push -u origin main” mandar o repositório para o GITHUB.
+```
+	git status
+```
 
-    
+ 
 
-13.  “git pull origin master” esse comando vai pegar/puxar as alterações/atualizações que não tem na sua máquina e manda juntar com as suas.  
+#### Listar todas as configurações
+
+```
+	git config --list
+```
+
+
+
+#### Remover e-mail e username que estão adicionados ao GIT
+
+```
+	git config --global --unset user.email
+	git config --global --unset user.email
+```
+
+
+
+#### Associar repositório local ao repositório remoto
+
+```
+	git remote add origin https://github.com/douglasbispo/...
+```
+
+
+
+#### Listar os repositórios que estão cadastrados
+
+```
+	git remote
+	git remote -v 
+```
+
+
+
+#### Mandar arquivos/diretórios para o repositório remoto no GitHub
+
+**No primeiro push é necessário setar o nome do repositório remoto e a branch, os demais não precisam dessas informações**
+
+```
+	git push -u origin main
+	git push
+```
+
+
+
+#### Esse comando irá atualizar as alterações existentes no repositório remoto que existem no seu repositório local 
+
+```
+	git pull origin master
+```
 
 ***Você só poderá enviar as atualizações se o projeto que está na sua maquina for a mesma versão que estiver no GITHUB, caso não, terá que usar o comando acima.**
 
-***Caso sua alteração for na mesma linha da atualização existente, o git pull não irá funcionar, você terá que alterar a linha que estiver dando conflito, o git mostrará qual é a linha.**
+***Caso sua alteração for na mesma linha da atualização existente, o comando acima não irá funcionar, você terá que alterar a linha que estiver dando conflito, o git mostrará qual é a linha.**
 
  
 
-14. “git clone https://github.com/douglasbispo/...” comando para clonar um repositório do GITHUB.
+#### Comando para clonar um repositório do GITHUB.
+
+```
+	git clone https://github.com/douglasbispo/...
+```
 
 
 
-### Link com todos os comando do GIT
+
+
+### O Link a seguir mostra com todos os comando do GIT
 
 [Lista de comandos úteis do GIT](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
-
