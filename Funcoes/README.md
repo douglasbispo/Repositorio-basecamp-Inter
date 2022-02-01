@@ -1,6 +1,6 @@
 # Funções
 
-Projetos referentes ao curso "Funções" que ministrei pela [Digital Innovation One](https://digitalinnovation.one/).
+Projetos referentes ao curso "Funções".
 
 ## Atividade 1: Alunos Aprovados
 
