@@ -1,0 +1,73 @@
+/* General */
+*{
+    font: 18px Arial, sans-serif;
+}
+
+body {
+    background-color: #d4d0f3;
+}
+
+/* Navbar */
+#navbar {
+    justify-content: space-between;
+}
+
+#navbar a {
+    color: #3a679c;
+}
+
+
+#navbar a:hover {
+    color: #3a809c;
+}
+
+#navbar img {
+    width: 120px;
+}
+
+/* Content */
+.fields-container {
+    color: #5f5f5f;
+    padding: 60px 0 60px 0;  
+    text-align: center;  
+}
+
+.fields-container h1, .fields-container img {
+    margin-bottom: 30px;
+}
+
+.fields-container p {
+    margin: 0;
+    text-align: justify;
+}
+
+/* Quem somos */
+.quemsomos-container img {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+
+
+/* Parceiros */
+.parceiros-container img {
+    width: 100%;
+}
+
+/* Servicos */
+.servicos-container img {
+    width: 100%;
+    min-height: 200px;
+}
+
+/* Footer */
+footer { 
+    text-align: center;
+    background-color: black;
+    color: #3a679c;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    min-height: 100px;
+    padding-top: 15px;
+}

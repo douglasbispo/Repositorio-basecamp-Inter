@@ -1,6 +1,10 @@
 # Funções
 
-Projetos referentes ao curso "Funções".
+Neste repositório estão as atividades práticas do curso "Funções"".
+
+Abaixo está o que foi proposto:
+
+
 
 ## Atividade 1: Alunos Aprovados
 

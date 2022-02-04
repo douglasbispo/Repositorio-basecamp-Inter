@@ -1,6 +1,10 @@
 # Manipulando o DOM
 
-Projeto referente ao curso "Manipulando o DOM".
+Nesse repositório está a atividade prática do curso "Manipulando o DOM".
+
+Abaixo está o que foi proposto:
+
+
 
 ## Atividade: Light Mode/Dark Mode
 

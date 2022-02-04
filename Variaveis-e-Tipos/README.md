@@ -1,6 +1,10 @@
 # Variáveis e Tipos
 
-Neste repositório você encontrará as atividades práticas propostas pelo curso "Variáveis e Tipos" do Basecamp de Javascript.
+Neste repositório estão as atividades práticas do curso "Variáveis e Tipos".
+
+Abaixo está o que foi proposto:
+
+
 
 ## Atividade 1
 

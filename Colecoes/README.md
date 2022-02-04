@@ -1,6 +1,10 @@
 # Coleções Chaveadas
 
-Este repositório contém a atividade prática do Curso "Coleções Chaveadas", que faz parte do Basecamp de Javascript.
+Neste repositório estão as atividades práticas do curso "Coleções Chaveadas".
+
+Abaixo está o que foi proposto:
+
+
 
 ## Atividade 1: Maps
 

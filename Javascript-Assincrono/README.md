@@ -1,6 +1,10 @@
-# Javascript Assíncrono
+# JavaScript Assíncrono
 
-Este repositório contém a atividade prática do Curso "Javascript Assíncrono", que faz parte do Basecamp de Javascript.
+Nesse repositório estão as atividades práticas do curso "JavaScript Assíncrono".
+
+Abaixo está o que foi proposto:
+
+
 
 ## Atividade: API "catAPI"
 

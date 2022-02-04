@@ -1,6 +1,10 @@
 # Tratamento de Erros
 
-Projeto referente ao curso "Tratamento de Erros".
+Neste repositório estão as atividades práticas referente ao curso "Tratamento de Erros".
+
+Abaixo está o que foi proposto:
+
+
 
 ## Atividade: validação de erros por tipo
 

@@ -1,6 +1,10 @@
 # Orientação a Objetos
 
-Este repositório contém a atividade prática do Curso "Orientação a Objetos", que faz parte do Basecamp de Javascript.
+Nesse repositório está a atividade prática do curso "Orientação a Objetos".
+
+Abaixo está o que foi proposto:
+
+
 
 ## Atividade: Conta Bancária
 

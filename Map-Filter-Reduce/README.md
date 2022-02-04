@@ -1,6 +1,10 @@
 # Map, Filter e Reduce
 
-Este repositório contém a atividade prática do Curso "Map, Filter e Reduce", que faz parte do Basecamp de Javascript.
+Neste repositório estão as atividades práticas do curso "Map, Filter e Reduce".
+
+Abaixo está o que foi proposto:
+
+
 
 ## Atividades
 
