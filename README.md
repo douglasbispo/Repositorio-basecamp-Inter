@@ -1,5 +1,5 @@
-# Repositório bootcamp Inter 
-Repositório criado para compartilhar as atividades práticas propostas nos cursos do bootcamp Inter Frontend Developer.
+# Repositório Basecamp DIO
+Repositório criado para compartilhar as atividades práticas propostas nos cursos de JavaScript da digital innovation one.
 
 
 
